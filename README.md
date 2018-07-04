@@ -4,7 +4,8 @@ Base SOLID principles in Swift
 
 
 ### Open Close Principle
-open for extension but closed for modifications
+* `_open for extension_`
+* `_closed for modifications_`
 
 ```swift
 protocol Shape {
