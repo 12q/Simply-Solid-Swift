@@ -50,10 +50,6 @@ let calculator = Calculator(objects: [Circle(radius: 10),
                                       Rectangle(width: 20, height: 10)])
 calculator.calulcate()
 
-//circle.area()
-//square.area()
-//rect.area()
-
 // 5. Liskov's Substitution Principle
 
 

@@ -1,7 +1,7 @@
 # Simply-Solid-Swift
 Base SOLID principles in Swift
-##### - [ ] Single Responsibility Principle
-##### - [x] Open Close Principle
+- [ ] Single Responsibility Principle
+- [x] Open Close Principle
 *  `open for extension`
 *  `closed for modifications`
 
@@ -32,6 +32,6 @@ struct Circle: Shape {
 }
 ```
 
-##### - [  ] Liskov's Substitution Principle
-##### - [  ] Interface Segregation Principle
-##### - [  ] Dependency Inversion Principle
+- [  ] Liskov's Substitution Principle
+- [  ] Interface Segregation Principle
+- [  ] Dependency Inversion Principle
