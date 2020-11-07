@@ -1,8 +1,7 @@
 //: [Previous](@previous)
 
-
-// MARK: - Single Responsibility Principle
-
 import Foundation
+
+var str = "Hello, playground"
 
 //: [Next](@next)
